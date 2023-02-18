@@ -1,5 +1,17 @@
 body{
-    color: chartreuse;
+    color: black;
     text-align: center;
     font-family: Arial;
+    background-color: cornsilk;
+}
+#container
+{
+width: 70%;
+padding: 1em;
+text-align: left;
+border-right-width: 1px solid;
+}
+#container h2
+{
+    height: 2px;
 }
